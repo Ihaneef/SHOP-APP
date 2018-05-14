@@ -1,3 +1,6 @@
+# Name: OLANREWAJU IBRAHIM
+# Email Address: hibrohym.adysa@yahoo.com
+
 #This is MY SHOP APPLICATION designed with python 
 
 print("WELCOME TO MY SHOP \n")
@@ -43,6 +46,10 @@ else:
 
       
 
+
+
+
+            
 
 
 
